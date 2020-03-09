@@ -15,7 +15,23 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-
+//MARK:Properties
+    @IBOutlet weak var userInput: UITextField!
+    
+    @IBOutlet weak var result: UILabel!
+    
+    
+    
+    
+//MARK:Methods
+    
+    
+    
+    
+    
+    
+    @IBAction func submit(_ sender: Any) {
+    }
     
     
     
